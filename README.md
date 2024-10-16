@@ -24,3 +24,6 @@ Completare il minigame al link: https://flukeout.github.io/
 ---
 
 ---
+<strong>Lo screenshot del completamento è il seguente:</strong>
+
+<img src="assets/img/completed.png">
